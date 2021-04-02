@@ -1,0 +1,7 @@
+# handle=open('record.txt','a')
+# handle.write("Hello python class")
+# handle.close()
+# fs=open('record.txt','r')
+#  print(fs.read())
+#  print(fs.readline())
+# print(fs.readlines())
